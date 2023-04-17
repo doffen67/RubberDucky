@@ -1,4 +1,4 @@
-#RubberDucky
+# RubberDucky
 
 Hak5's Rubber Ducky is a keystroke injection tool disguised as a USB flash drive. It allows users to run pre-written scripts on a target computer as if a human were typing on the keyboard. Recreating a Rubber Ducky can be done using an inexpensive USB development board, such as the Digispark ATTiny85.
 
